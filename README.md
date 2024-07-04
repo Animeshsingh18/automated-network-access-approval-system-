@@ -21,6 +21,10 @@ application, providing a seamless user experience.
 
 
 
+
+
+
+
 User Dashboard
 • Personalized Dashboard: After logging in, users are redirected to a
 personalized dashboard where they can view the status of their applications.
@@ -38,6 +42,9 @@ rejected at any level, the user is informed accordingly.
 
 
 <img width="1036" alt="Screenshot 2024-07-02 at 10 24 53 PM" src="https://github.com/Animeshsingh18/automated-network-access-approval-system-/assets/123716564/25e06331-e844-4012-b97d-6034dde7e9ad">
+
+
+
 
 
 
