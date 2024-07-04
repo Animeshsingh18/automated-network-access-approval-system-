@@ -22,9 +22,6 @@ application, providing a seamless user experience.
 
 
 
-
-
-
 User Dashboard
 • Personalized Dashboard: After logging in, users are redirected to a
 personalized dashboard where they can view the status of their applications.
@@ -50,11 +47,16 @@ rejected at any level, the user is informed accordingly.
 
 
 
+
 Application Records Management
 Database Integration: The application is integrated with a MySQL database, which stores all the application data. Different tables are used to manage different stages and statuses of applications.
 Dynamic Data Fetching: The application dynamically fetches and displays data from the database based on the user's session and queries, ensuring that the information is always current.
 
 <img width="1470" alt="Screenshot 2024-07-02 at 9 57 58 PM" src="https://github.com/Animeshsingh18/automated-network-access-approval-system-/assets/123716564/ae3f4bcc-2f34-479b-8bb5-578c4c3d5917"> 
+
+
+
+
 
 
 
@@ -66,6 +68,14 @@ Search Functionality: The history page includes a search bar that allows users t
 User-Friendly Interface: The history page features a clean and responsive design, enhancing the user experience with easy-to-navigate tables and intuitive search options.
 
 <img width="1469" alt="Screenshot 2024-07-02 at 10 10 25 PM" src="https://github.com/Animeshsingh18/automated-network-access-approval-system-/assets/123716564/49e1f897-3e01-44f5-9d48-7afbb83bcd98">
+
+
+
+
+
+
+
+
 
 
 Security Enhancements
