@@ -1,4 +1,4 @@
-##### Prototype of Project
+## Prototype of Project
 
 In this project, we developed a robust web application for managing and tracking user 
 applications through various approval stages. The application, built with PHP and
